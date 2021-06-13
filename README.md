@@ -64,7 +64,7 @@ body::before {
 
 <span class="blue"><p align="right">ร้านเรา</p></span>
 <h1><span class="yellow"><marquee behavior="lrft">!!! 2564/06/13@CAFFEE BAR!!!</marquee></span></h1>
-<p align="right"><marquee direction="right" scrollamount="5" width="90%">TEL:096-718-0595</marquee></p>
+<p align="right"><marquee direction="right" scrollamount="5" width="90%">TEL:0813584390</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!--
 <p align="left"> <img src="QR_RanRao.png" alt="QR_code" width="100">
@@ -83,12 +83,12 @@ body::before {
 <a href="20210613_008.JPG" data-lightbox="abc"><img src="20210613_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210613_009.JPG" data-lightbox="abc"><img src="20210613_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210613_010.JPG" data-lightbox="abc"><img src="20210613_010.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210613_011.JPG" data-lightbox="abc"><img src="20210613_011.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210613_012.JPG" data-lightbox="abc"><img src="20210613_012.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210613_013.JPG" data-lightbox="abc"><img src="20210613_013.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210613_014.JPG" data-lightbox="abc"><img src="20210613_014.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210613_015.JPG" data-lightbox="abc"><img src="20210613_015.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210613_016.JPG" data-lightbox="abc"><img src="20210613_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20210613_011.JPG" data-lightbox="abc"><img src="20210613_011.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20210613_012.JPG" data-lightbox="abc"><img src="20210613_012.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20210613_013.JPG" data-lightbox="abc"><img src="20210613_013.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20210613_014.JPG" data-lightbox="abc"><img src="20210613_014.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20210613_015.JPG" data-lightbox="abc"><img src="20210613_015.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20210613_016.JPG" data-lightbox="abc"><img src="20210613_016.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20210613_017.JPG" data-lightbox="abc"><img src="20210613_017.JPG" alt="サンプル画像" width="900" /></a>
 
 
