@@ -62,7 +62,7 @@ body::before {
 </head>
 
 
-<span class="blue"><p align="right">ร้านเรา</p></span>
+<span class="blue"><p align="right">CAFFEE BAR</p></span>
 <h1><span class="yellow"><marquee behavior="lrft">!!! 2564/06/13@CAFFEE BAR!!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="5" width="90%">TEL:0813584390</marquee></p>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
